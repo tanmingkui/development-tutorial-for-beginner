@@ -67,4 +67,4 @@ PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.
 
 ## 使用许可
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © Mingkui Tan
