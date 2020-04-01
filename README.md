@@ -63,7 +63,7 @@ PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.
 
 ## 如何贡献
 
-非常欢迎你的加入! [提一个Issue](https://github.com/tanmingkui/development-tutorial-for-beginner/issues/new) 或者提交一个 Pull R equest.
+非常欢迎你的加入! [提一个Issue](https://github.com/tanmingkui/development-tutorial-for-beginner/issues/new) 或者提交一个 Pull Request.
 
 ## 使用许可
 
