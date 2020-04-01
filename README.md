@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/github/v/release/tanmingkui/development-tutorial-for-beginner.svg)](https://github.com/tanmingkui/development-tutorial-for-beginner/releases)
 
-PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.com/tanmingkui/development-tutorial-for-beginner/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8BV2.3.pdf)
+PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.com/tanmingkui/development-tutorial-for-beginner/releases/download/2.3/development-tutorial-for-beginner-v2.3.pdf)
 
 ## 框架图
 ![框架图](framework.png)
@@ -15,7 +15,7 @@ PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.
   * Windows系统上传或下载文件（下载、安装和使用Xftp）
   * Linux系统、Mac OSX系统远程登录Linux服务器
   * Linux系统上传或下载文件
-* inux系统基本操作
+* Linux系统基本操作
   * Linux基础概念
   * Linux文件与目录管理
   * GPU服务器管理
