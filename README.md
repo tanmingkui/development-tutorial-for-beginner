@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/v/release/tanmingkui/development-tutorial-for-beginner.svg)](https://github.com/tanmingkui/development-tutorial-for-beginner/releases)
 
 ## 框架图
-![框架图](.framework.png)
+![框架图](framework.png)
 
 ## 目录
 
