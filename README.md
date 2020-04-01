@@ -56,9 +56,9 @@ PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.
 ## 贡献者
 
 感谢以下参与项目的人：
-[@liujingcs](https://github.com/liujingcs).
-[@HaoKun-Li](https://github.com/HaoKun-Li).
-[@tanmingkui](https://github.com/tanmingkui).
+[@liujingcs](https://github.com/liujingcs)
+[@HaoKun-Li](https://github.com/HaoKun-Li)
+[@tanmingkui](https://github.com/tanmingkui)
 
 ## 如何贡献
 
