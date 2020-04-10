@@ -3,7 +3,10 @@
 
 [![](https://img.shields.io/github/v/release/tanmingkui/development-tutorial-for-beginner.svg)](https://github.com/tanmingkui/development-tutorial-for-beginner/releases)
 
-PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.com/tanmingkui/development-tutorial-for-beginner/releases/download/2.3/development-tutorial-for-beginner-v2.3.pdf)
+PDF下载地址：[深度学习项目开发新手教程V2.6.pdf](https://github.com/tanmingkui/development-tutorial-for-beginner/releases/download/v2.6/Basic_Tips_Before_Starting_the_Deep_Learning_Journey_for_Very_Beginners_v2.6.pdf)
+
+## 摘要
+本教程是为想从事深度学习研究的非计算机专业同学而准备的，主要包括服务器的远程操作，Linux系统基础，Pytorch环境搭建和版本管理方面的知识。这些小Tips对于计算机专业的同学来可能不值一提，但对于很多非计算机专业的同学来说应该具有一些价值，希望本教程能为这部分同学解决“迈出第一步”的困难。
 
 ## 框架图
 ![框架图](framework.png)
@@ -38,6 +41,15 @@ PDF下载地址：[深度学习项目开发新手教程V2.3.pdf](https://github.
   * Git分支管理
 
 ## 更新日志
+### [v2.6] - 2020-04-09
+* 更新前言
+
+### [v2.5] - 2020-04-08
+* 添加参考文献
+
+### [v2.4] - 2020-04-05
+* 转换成latex文件，美化排版
+
 ### [v2.3] - 2019-07-13
 * 在GPU服务器管理章节中添加磁盘管理指南
 
